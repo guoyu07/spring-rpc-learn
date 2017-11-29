@@ -1,0 +1,37 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>spring-rpc-learn</groupId>
+  <artifactId>spring-rpc-learn</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>spring-rpc-learn</name>
+  <modules>
+  	<module>rpc-client</module>
+  	<module>rpc-service</module>
+  	<module>rpc-common</module>
+  </modules>
+  
+  <properties>
+  	<JAVA8_HOME>C:/Program Files/Java/jre1.8.0_40</JAVA8_HOME>
+  </properties>
+  
+  
+  
+  
+  <build>
+  
+  </build>
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</project>
